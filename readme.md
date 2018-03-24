@@ -30,7 +30,7 @@ Install Azure Storage Explorer
 
 * https://azure.microsoft.com/en-us/features/storage-explorer
 
-## Recommened Resources
+## Recommended Resources
 
 ### Books
 Quick and Practical Guide to ARM Templates by Aman Sharma
@@ -57,6 +57,14 @@ Export an Azure Resource Manager template from existing resources
 Use Visual Studio Code extension to create Azure Resource Manager template 
 
 * https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-vscode-extension
+
+Azure Resource Manager Custom Script Extension with Linux virtual machines
+
+* https://docs.microsoft.com/en-us/azure/virtual-machines/linux/extensions-customscript
+
+Azure Resource Manager Customer Script Extension with Microsoft Virtual Machines
+
+* https://docs.microsoft.com/en-us/azure/virtual-machines/windows/extensions-customscript
 
 Azure Quickstart Templates 
 
