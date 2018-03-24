@@ -35,7 +35,7 @@ Install Azure Storage Explorer
 ### Books
 Quick and Practical Guide to ARM Templates by Aman Sharma
  
-* https://www.amazon.com/dp/B07C8LSBSN]
+* https://www.amazon.com/dp/B07C8LSBSN
 
 ### Websites
 Azure Resource Manager overview  
