@@ -1,4 +1,4 @@
-# Azure ARM Templates Learning
+# Azure ARM Templates
 
 ## Recommended tools
  
