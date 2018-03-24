@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "resourcePrefix": {
-        "value": "p20" 
+        "value": "gates" 
       },
       "vmName": {
-        "value": "P20WebVM"
+        "value": "linuxVM"
       },      
       "adminUsername": {
-        "value": "p20admin"
+        "value": "nimda""
       },
       "adminPassword": {
-        "value": "P20Password!!"
+        "value": "Password!!"
       },
       "ubuntuOSVersion": {
         "value": "16.04-LTS"
       },
       "vnetName": {
-        "value": "P20VNet"
+        "value": "linuxVNet"
       },
       "vnetPrefix": {
         "value": "10.0.0.0/16"
@@ -27,7 +27,7 @@
         "value": "Default"
       },
       "subnetPrefix": {
-        "value": "10.0.0.0/24"
+        "value": "10.0.1.0/24"
       }
     }
 }
