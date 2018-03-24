@@ -9,10 +9,10 @@
         "value": "linuxVM"
       },      
       "adminUsername": {
-        "value": "nimda""
+        "value": "adminAccount""
       },
       "adminPassword": {
-        "value": "Password!!"
+        "value": "Password ** need to leverage Azure Key Vault"
       },
       "ubuntuOSVersion": {
         "value": "16.04-LTS"
