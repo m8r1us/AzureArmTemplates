@@ -1,0 +1,57 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "value": "eastus"
+        },
+        "virtualMachineName": {
+            "value": "smitten"
+        },
+        "virtualMachineSize": {
+            "value": "Standard_B1ms"
+        },
+        "adminUsername": {
+            "value": "smittenadmin"
+        },
+        "virtualNetworkName": {
+            "value": "smitten_rg-vnet"
+        },
+        "networkInterfaceName": {
+            "value": "smitten95"
+        },
+        "networkSecurityGroupName": {
+            "value": "smitten-nsg"
+        },
+        "adminPassword": {
+            "value": null
+        },
+        "diagnosticsStorageAccountName": {
+            "value": "smittenrgdiag402"
+        },
+        "diagnosticsStorageAccountType": {
+            "value": "Standard_LRS"
+        },
+        "diagnosticsStorageAccountId": {
+            "value": "Microsoft.Storage/storageAccounts/smittenrgdiag402"
+        },
+        "addressPrefix": {
+            "value": "10.0.10.0/24"
+        },
+        "subnetName": {
+            "value": "default"
+        },
+        "subnetPrefix": {
+            "value": "10.0.10.0/24"
+        },
+        "publicIpAddressName": {
+            "value": "smitten-ip"
+        },
+        "publicIpAddressType": {
+            "value": "Dynamic"
+        },
+        "publicIpAddressSku": {
+            "value": "Basic"
+        }
+    }
+}
