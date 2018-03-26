@@ -6,34 +6,34 @@
             "value": "eastus"
         },
         "virtualMachineName": {
-            "value": "smitten"
+            "value": "wordpress-server"
         },
         "virtualMachineSize": {
             "value": "Standard_B1ms"
         },
         "adminUsername": {
-            "value": "smittenadmin"
+            "value": "wordpress-admin"
         },
         "virtualNetworkName": {
-            "value": "smitten_rg-vnet"
+            "value": "wordpress_rg-vnet"
         },
         "networkInterfaceName": {
-            "value": "smitten95"
+            "value": "wordpress95"
         },
         "networkSecurityGroupName": {
-            "value": "smitten-nsg"
+            "value": "wordpress-nsg"
         },
         "adminPassword": {
             "value": null
         },
         "diagnosticsStorageAccountName": {
-            "value": "smittenrgdiag402"
+            "value": "wordpressrgdiag402"
         },
         "diagnosticsStorageAccountType": {
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/smittenrgdiag402"
+            "value": "Microsoft.Storage/storageAccounts/wordpressrgdiag402"
         },
         "addressPrefix": {
             "value": "10.0.10.0/24"
@@ -45,7 +45,7 @@
             "value": "10.0.10.0/24"
         },
         "publicIpAddressName": {
-            "value": "smitten-ip"
+            "value": "wordpress-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
