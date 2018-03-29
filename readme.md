@@ -72,6 +72,10 @@ Azure Quickstart Templates
 
 * <https://azure.microsoft.com/documentation/templates>
 
+Azure Policy Templates
+
+* <https://docs.microsoft.com/en-us/azure/azure-policy/json-samples>
+
 Albert Wo's GIT Training Repo
 
 * <https://github.com/albertwo1978/training-events>
